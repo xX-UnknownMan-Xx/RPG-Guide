@@ -1,0 +1,11 @@
+body, html{
+    height: 100%;
+    margin: 0;
+
+}
+.bg{
+    background-image: url('../img/Anomaly\,\ Jesper\ Friis.jpg'); /* imagem de fundo da página*/
+    background-position: center; /*posição da imagem na página*/
+    background-size: cover; /*ocupar toda a tela*/
+    background-attachment: fixed; /*não se mover junto com a tela*/
+}
